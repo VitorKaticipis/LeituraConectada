@@ -5,7 +5,7 @@ Integrantes: Vitor Pires Katicipis, André Luiz e Valentina Zanette
 
 Protótipo figma: https://www.figma.com/proto/9XaKzSIKuTdkJKhrFukM04/Untitled?type=design&node-id=4-13&t=R3HLcD1aZDYCN4HF-1&scaling=min-zoom&page-id=4%3A11&mode=design
 
-
+Protótipo atualizado do figma: https://www.figma.com/proto/nJUaongjd88r5tMzSwdA0L/Leitura-Conectada?type=design&node-id=1-3&t=1XaFxJYunQ78Mqn7-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A88&show-proto-sidebar=1
 
 
 
